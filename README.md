@@ -12,39 +12,7 @@ Os conteúdos estão organizados em pastas numeradas, facilitando o aprendizado 
 
 🚀 Tecnologias utilizadas
 HTML5
-HTML/
-│
-├── 001/
-├── 02 BUTTON/
-├── 03 desafio/
-├── 04 input/
-├── 05 links/
-├── 06 listas/
-├── 07 selectbox/
-├── 8 textarea/
-├── 9 fontes/
-├── 10 div e span/
-├── 11/
-├── 11 embeds/
-├── 12 iframes/
-├── 13 cores/
-├── 18 iframe/
-├── 19 table/
-├── 20 tr/
-├── 21 td e th/
-├── 22 main, header e footer/
-├── 23 aside, section e nav/
-├── 24 article, blockquote e q/
-├── 25 figure, figcaption e picture/
-├── 26 datalist/
-├── 27 code, kbd e pre/
-├── 28 details e summary/
-├── 29 meter e progress/
-├── 30 mark e javascript/
-├── 31 canvas/
-│
-├── desafio 2/
-└── projeto 01/
+
 🎯 Conteúdos abordados
 🧱 Estrutura básica
 Elementos HTML
