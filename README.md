@@ -12,6 +12,39 @@ Os conteúdos estão organizados em pastas numeradas, facilitando o aprendizado 
 
 🚀 Tecnologias utilizadas
 HTML5
+📂 Estrutura do Projeto
+🧱 Módulos de Estudo (CSS)
+22 - Bordas
+23 - Estilo de Bordas
+24 - Cor da Borda
+25 - Arredondamento de Bordas
+26 - Propriedade Border Image
+27 - Border Image Repeat
+🔤 Tipografia
+28 - Personalizando Fontes
+29 - Aplicando Fontes Personalizadas
+30 - Aplicando Fontes Personalizadas
+31 - Alterando o Tamanho das Fontes
+📝 Texto
+32 - Text Transform
+33 - Text Align
+34 - Text Decoration
+35 - Letter Spacing
+36 - White Space
+37 - Word Break
+📦 Layout e Efeitos
+38 - Box Shadow
+39 - Overflow
+📁 Pastas Extras
+📁 assets → Arquivos de apoio (imagens, ícones, etc.)
+📁 display block → Estudo de display: block
+📁 display inline → Estudo de display: inline
+📁 EXERCICIOS → Práticas e atividades
+📁 sayMyName → Exercício/projeto específico
+📄 Arquivos principais
+📄 index.html → Página principal
+📄 teste.html → Página de testes
+📄 README.md → Documentação do projeto
 
 🎯 Conteúdos abordados
 🧱 Estrutura básica
